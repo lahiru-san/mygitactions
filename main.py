@@ -3,7 +3,7 @@ def hello():
 
 
 def bye():
-    print("bye")
+    printf("bye")
 
 
 print(hello())
